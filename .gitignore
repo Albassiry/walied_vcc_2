@@ -1,5 +1,9 @@
-# Object file
-*.o
+# Logs
+*.log
 
-# Ada Library Information
-*.ali
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
